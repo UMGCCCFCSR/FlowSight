@@ -1,0 +1,55 @@
+FlowSight: Quality Control 
+
+Shape 
+
+*Should do QC on machine ~2 hours before appointment* 
+
+Fluidcs Check 
+
+Sheath- PBS CaCl2 and MgCl2  
+
+Waste- dump out if it looks full  
+
+Debubber, Sterlizer, Cleanser, and Rinse are only used for cleaning so you don’t need much of these solutions  
+
+Turn On 
+
+Turn on the big Dell Computer  
+
+Turn on cytometer when there is a blue lgith by the probe 
+
+Turn on teh little dell under the monitor 
+
+Log in 
+
+Log in to computer Usernmae: amnis 
+
+Is100 
+
+Open Softwear “Flow Sight” you should hear some mechanical noises 
+
+Start up  
+
+Wash- load with water  
+
+Click “return” to remove water tube  
+
+Run beads 
+
+Qc beads are left at room temp in drawer nex to the canto. No need to dilute, just use 1 drop.  
+
+Load the beads, click “OK” (qc beads will take a long time)  
+
+Open fluidics, make sure it is selected on the middle bar  
+
+Click “start all calibrations”  
+
+YOU WANT ALL TESTS TO BE GREEN  
+
+Yellow is a warning  
+
+Red is not good 
+
+IF RED: click on the individual red tests to re-run THAT test. Onlt try 3 times, if it is still failed there is “no hope”, inform Dr. Fan  
+
+     10. After the beads: click stop on the fluidics, click return, remove the beads, and wash with 	water for 20 minutes  
